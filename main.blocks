@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=".;hUk26~{?q*Aixl{w3?" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_number" id="~3.)U!CX=cfcT~nWFBk_"><value name="number"><block type="device_temperature" id="+zWq8%BU*=GP.JSaCK0M"/></value></block></statement></block></xml>
